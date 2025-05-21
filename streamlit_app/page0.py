@@ -13,10 +13,10 @@ col1, col2, col3 = st.columns([1, 4, 1])
 # Colonne gauche : Image
 with col1:
     st.image(
-        "https://raw.github.com/josias76/MOVIE_ANALYTICS/blob/main/streamlit_app/images/data.jpeg",  # Remplacez par le chemin de votre image
-        width=80,     # Ajustez la taille si nécessaire
-        use_container_width=False,
-    )
+    "https://raw.githubusercontent.com/josias76/MOVIE_ANALYTICS/main/streamlit_app/images/data.jpeg",
+    width=80,
+    use_container_width=False,
+)
 
 # Colonne centrale : Titre
 with col2:
