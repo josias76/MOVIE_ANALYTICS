@@ -1,11 +1,3 @@
-
-
-Dans la **Phase 2 (Data Analyst)**, vous allez changer de perspective.
-
-Nous allons  **consommer des APIs**, extraire et analyser des données à l’aide de pandas, créer des visualisations et des tableaux de bord pour répondre à des questions métiers concrètes. pour découvrir comment utiliser les données publiées par une API pour générer des **insights puissants**.
-
-
-
 # **Data Analyst - Exploration et Visualisation**  
 
 
