@@ -46,7 +46,7 @@ st.write(" ")
 # Titre
 st.markdown("# **Phase 1 : Développeur Python & Architecte API**")
 # Afficher l'image séparément
-st.image("images/architecture2.png", use_container_width=True)
+st.image("https://raw.githubusercontent.com/josias76/MOVIE_ANALYTICS/main/streamlit_app/images/architecture2.png", use_container_width=True)
 
 st.markdown(
         """
@@ -67,7 +67,7 @@ st.write(" ")
 # Titre
 st.markdown("# **Phase 2 : Data Analyst - Exploration et Visualisation**")
 # Afficher l'image séparément
-st.image("images/architecturephase.png", use_container_width=True)
+st.image("https://raw.githubusercontent.com/josias76/MOVIE_ANALYTICS/main/streamlit_app/images/architecturephase.png", use_container_width=True)
 
 st.markdown(
         """
